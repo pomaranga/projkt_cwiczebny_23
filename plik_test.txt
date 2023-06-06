@@ -1,4 +1,1 @@
-linijka pierwsza
-linijka druga :3
-nie spac
-
+linijka pierwsza 1
