@@ -1,4 +1,4 @@
 linijka pierwsza
 linijka druga :3
-spac
+nie spac
 
